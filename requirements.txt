@@ -1,0 +1,23 @@
+# Core Numerical & Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+pillow>=10.0.0
+matplotlib>=3.7.0
+
+# Deep Learning & Feature Matching
+torch>=2.0.0
+kornia>=0.7.0
+
+# Interactive Mission UI & Dashboard
+streamlit>=1.30.0
+
+# Documentation & Reporting
+python-docx>=1.0.0
+reportlab>=4.0.0
+pymupdf>=1.23.0
+python-pptx>=0.6.21
